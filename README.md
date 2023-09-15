@@ -19,7 +19,7 @@ Front-End mostly focused
         <a href="https://www.linkedin.com/company/sampinganid/mycompany/">
             Staffinc
         </a>.
-    I am currently focus on <em>Front-End</em> stuffssuch as <b>React</b>, <b>NextJS</b> for Web Apps, and <b>React Native</b> and <b>Flutter</b> for Hybrid Mobile Apps, besides I am also frequently learning on working with <b>Golang</b>
+    I am currently focus on <em>Front-End</em> stuffs, such as <b>React</b>, <b>NextJS</b> for Web Apps, and <b>React Native</b> and <b>Flutter</b> for Hybrid Mobile Apps, besides I am also frequently learning on working with <b>Golang</b>
 <p>
 
 <h2 align="start">Technology Stacks</h2>
