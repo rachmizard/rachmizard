@@ -15,7 +15,7 @@ Front-End mostly focused
  </h3>
 
 <p align="start">
-    HI, I am Rachmizard A.K.A Mizard. 23-years-old software engineer currently working at 
+    HI, I am Rachmizard A.K.A Mizard. 25-years-old software engineer currently working at 
         <a href="https://www.linkedin.com/company/sampinganid/mycompany/">
             Staffinc
         </a>.
